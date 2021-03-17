@@ -43,7 +43,7 @@
     * Keras
     * Matplotlib.
     
-## Model predicting
+## Model prediction
  
 * make sure to unzip model.zip file
     
