@@ -47,7 +47,7 @@
  
 * make sure to unzip model.zip file
     
-* Open juputer notebook using anaconda navigator or CLI
+* Open jupyter notebook using anaconda navigator or CLI
 
 * Open prediction.ipynb file using jupyter notebook which is in unzip model folder
 
