@@ -48,6 +48,12 @@
    [KVASIR Dataset](https://datasets.simula.no/kvasir/)
     
 ## Model prediction
+
+I have used kvasir dataset to find the class names of the outputs.So you should know the relative path to the kvasir dataset folder.
+
+```{python}
+path ='kvasir-dataset' # Give proper relative path to the data set folder
+```
  
 * make sure to unzip model.zip file
     
