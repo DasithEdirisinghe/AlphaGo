@@ -45,7 +45,7 @@
 
 ## Dataset
    
-   [https://datasets.simula.no/kvasir/]
+   [KVASIR Dataset](https://datasets.simula.no/kvasir/)
     
 ## Model prediction
  
