@@ -42,6 +42,10 @@
     * Tensorflow (GPU or CPU version depends on your pc)
     * Keras
     * Matplotlib.
+
+## Dataset
+   
+   [https://datasets.simula.no/kvasir/]
     
 ## Model prediction
  
