@@ -50,6 +50,7 @@
 ## Model prediction
 
 I have used kvasir dataset to find the class names of the outputs.So you should know the relative path to the kvasir dataset folder.
+But you can directly pass the output classe names to the "class_name" array in prediction.ipynb file
 
 ```{python}
 path ='kvasir-dataset' # Give proper relative path to the data set folder
